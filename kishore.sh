@@ -1,1 +1,2 @@
-utomate the encryption process
+Automate the encryption process
+We can fetch the details here
